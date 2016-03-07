@@ -1,0 +1,3314 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19115",
+"files": {
+	"\/assets\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/img\/about_banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166096,
+		"inputAbbreviatedPath": "\/assets\/img\/about_banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/about_banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/birds.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139891,
+		"inputAbbreviatedPath": "\/assets\/img\/birds.png",
+		"outputAbbreviatedPath": "\/assets\/img\/birds.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/btn-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1708,
+		"inputAbbreviatedPath": "\/assets\/img\/btn-play.png",
+		"outputAbbreviatedPath": "\/assets\/img\/btn-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cloud_bg_01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13671,
+		"inputAbbreviatedPath": "\/assets\/img\/cloud_bg_01.png",
+		"outputAbbreviatedPath": "\/assets\/img\/cloud_bg_01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cloud_bg_02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13024,
+		"inputAbbreviatedPath": "\/assets\/img\/cloud_bg_02.png",
+		"outputAbbreviatedPath": "\/assets\/img\/cloud_bg_02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cloud_circle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15757,
+		"inputAbbreviatedPath": "\/assets\/img\/cloud_circle.png",
+		"outputAbbreviatedPath": "\/assets\/img\/cloud_circle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_all1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102334,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_all1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_all1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_buttercup.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 309372,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_buttercup.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_buttercup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_cookiedough.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 412247,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_cookiedough.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_cookiedough.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_hotshot_munchkin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124009,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_hotshot_munchkin.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_hotshot_munchkin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_mobilehs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108751,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_mobilehs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_mobilehs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_mobilehs_462x262.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 345668,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_mobilehs_462x262.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_mobilehs_462x262.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_tuttifrutti.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75360,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_tuttifrutti.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_tuttifrutti.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dd_tuttufruiti.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437864,
+		"inputAbbreviatedPath": "\/assets\/img\/dd_tuttufruiti.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dd_tuttufruiti.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dilli_banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208617,
+		"inputAbbreviatedPath": "\/assets\/img\/dilli_banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/dilli_banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dilli_cloud.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6955,
+		"inputAbbreviatedPath": "\/assets\/img\/dilli_cloud.png",
+		"outputAbbreviatedPath": "\/assets\/img\/dilli_cloud.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/DilliBirdFC.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3084,
+		"inputAbbreviatedPath": "\/assets\/img\/DilliBirdFC.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/DilliBirdFC.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/dillidalli_nobird.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7206,
+		"inputAbbreviatedPath": "\/assets\/img\/dillidalli_nobird.png",
+		"outputAbbreviatedPath": "\/assets\/img\/dillidalli_nobird.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/drive-in-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.92764e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/drive-in-01.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/drive-in-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/footer2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346849,
+		"inputAbbreviatedPath": "\/assets\/img\/footer2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/footer2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/gears_circle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15685,
+		"inputAbbreviatedPath": "\/assets\/img\/gears_circle.png",
+		"outputAbbreviatedPath": "\/assets\/img\/gears_circle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/girl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225586,
+		"inputAbbreviatedPath": "\/assets\/img\/girl.png",
+		"outputAbbreviatedPath": "\/assets\/img\/girl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/kids_banner1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 376952,
+		"inputAbbreviatedPath": "\/assets\/img\/kids_banner1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/kids_banner1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/kids_banner2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 339710,
+		"inputAbbreviatedPath": "\/assets\/img\/kids_banner2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/kids_banner2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/safety_circle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23864,
+		"inputAbbreviatedPath": "\/assets\/img\/safety_circle.png",
+		"outputAbbreviatedPath": "\/assets\/img\/safety_circle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video_poster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 463283,
+		"inputAbbreviatedPath": "\/assets\/img\/video_poster.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video_poster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video_poster.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.28797e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/video_poster.png",
+		"outputAbbreviatedPath": "\/assets\/img\/video_poster.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/video_poster_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51969,
+		"inputAbbreviatedPath": "\/assets\/img\/video_poster_02.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/video_poster_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/bootstrap-sprockets.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap-sprockets.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/bootstrap-sprockets-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/bootstrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/affix.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/affix.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/affix-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/alert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/alert.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/alert-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/button.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/button.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/button-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/carousel.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/collapse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/collapse.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/collapse-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/dropdown.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/dropdown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/modal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/modal.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/modal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/popover.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/popover.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/popover-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/scrollspy.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/scrollspy.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/scrollspy-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/tab.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/tab-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/tooltip.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/tooltip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/bootstrap\/transition.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/bootstrap\/transition.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap\/min\/transition-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/custom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/custom.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/ie-emulation-modes-warning.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/ie-emulation-modes-warning.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/ie-emulation-modes-warning-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/ie10-viewport-bug-workaround.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/ie10-viewport-bug-workaround.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/ie10-viewport-bug-workaround-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/ie8-responsive-file-warning.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/ie8-responsive-file-warning.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/ie8-responsive-file-warning-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery-1.10.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery-1.10.2.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery-1.10.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.flexslider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.flexslider.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.flexslider-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.nav.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.nav.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.nav-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.navgoco.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.navgoco.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.navgoco-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.scrollto.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.scrollto.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.scrollto-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.scrollTo.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.scrollTo.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.scrollTo.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.smint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.smint.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.smint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.viewport.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.viewport.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.viewport-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/main.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/main_01.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/main_01.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/main_01-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/custom-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/custom-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/custom-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/main_01-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/main_01-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/main_01-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/respond.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/respond.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/respond.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/sr_main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/sr_main.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/sr_main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/stickydiv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickydiv.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/stickydiv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/vendor\/jquery-1.10.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/jquery-1.10.2.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/vendor\/min\/jquery-1.10.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/vendor\/jquery.nanoscroller.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/jquery.nanoscroller.js",
+		"outputAbbreviatedPath": "\/assets\/js\/vendor\/min\/jquery.nanoscroller-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/vendor\/jquery.nanoscroller.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/jquery.nanoscroller.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/vendor\/min\/jquery.nanoscroller.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/vendor\/modernizr-2.6.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/modernizr-2.6.2.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/vendor\/min\/modernizr-2.6.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/vendor\/videojs\/video-js.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/videojs\/video-js.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/vendor\/videojs\/video.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/vendor\/videojs\/video.js",
+		"outputAbbreviatedPath": "\/assets\/js\/vendor\/videojs\/min\/video-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/owlcarousel\/assets\/owl.carousel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/owlcarousel\/assets\/owl.carousel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/owlcarousel\/assets\/owl.theme.default.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/owlcarousel\/assets\/owl.theme.default.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/owlcarousel\/owl.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/owlcarousel\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/assets\/owlcarousel\/min\/owl.carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/owlcarousel\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/owlcarousel\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/assets\/owlcarousel\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/sass\/_bootstrap_ms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_bootstrap_ms.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_bootstrap_ms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_flexslider.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_flexslider.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_flexslider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_ie.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_ie.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_ie.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_main.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_mixins.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_my_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_my_variables.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_my_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_offcanvas.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_offcanvas.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_offcanvas.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/_smint.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/_smint.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_smint.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/_bootstrap-compass.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/_bootstrap-compass.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/css\/_bootstrap-compass.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/_bootstrap-mincer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/_bootstrap-mincer.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/css\/_bootstrap-mincer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/_bootstrap-sprockets.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/_bootstrap-sprockets.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/css\/_bootstrap-sprockets.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/_bootstrap.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/_bootstrap.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/css\/_bootstrap.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_alerts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_alerts.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_alerts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_badges.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_badges.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_badges.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_breadcrumbs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_breadcrumbs.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_breadcrumbs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_button-groups.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_button-groups.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_button-groups.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_buttons.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_carousel.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_carousel.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_carousel.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_close.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_close.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_close.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_code.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_code.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_code.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_component-animations.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_component-animations.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_component-animations.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_dropdowns.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_dropdowns.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_dropdowns.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_forms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_forms.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_glyphicons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_glyphicons.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_glyphicons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_grid.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_grid.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_grid.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_input-groups.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_input-groups.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_input-groups.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_jumbotron.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_jumbotron.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_jumbotron.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_labels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_labels.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_labels.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_list-group.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_list-group.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_list-group.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_media.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_media.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_media.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_mixins.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_modals.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_modals.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_modals.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_navbar.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_navbar.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_navbar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_navs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_navs.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_navs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_normalize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_normalize.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_pager.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_pager.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_pager.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_pagination.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_pagination.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_pagination.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_panels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_panels.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_panels.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_popovers.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_popovers.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_popovers.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_print.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_print.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_print.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_progress-bars.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_progress-bars.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_progress-bars.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_responsive-embed.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_responsive-embed.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_responsive-embed.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_responsive-utilities.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_responsive-utilities.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_responsive-utilities.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_scaffolding.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_scaffolding.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_scaffolding.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_tables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_tables.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_tables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_theme.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_thumbnails.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_thumbnails.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_thumbnails.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_tooltip.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_tooltip.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_tooltip.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_type.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_type.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_type.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_utilities.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_utilities.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_utilities.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_variables.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/_wells.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/_wells.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/css\/_wells.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_alerts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_alerts.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_alerts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_background-variant.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_background-variant.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_background-variant.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_border-radius.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_border-radius.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_border-radius.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_buttons.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_center-block.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_center-block.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_center-block.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_clearfix.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_clearfix.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_clearfix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_forms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_forms.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_gradients.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_gradients.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_gradients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_grid-framework.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_grid-framework.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_grid-framework.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_grid.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_grid.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_grid.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_hide-text.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_hide-text.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_hide-text.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_image.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_image.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_labels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_labels.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_labels.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_list-group.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_list-group.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_list-group.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_nav-divider.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_nav-divider.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_nav-divider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_nav-vertical-align.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_nav-vertical-align.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_nav-vertical-align.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_opacity.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_opacity.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_opacity.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_pagination.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_pagination.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_pagination.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_panels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_panels.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_panels.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_progress-bar.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_progress-bar.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_progress-bar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_reset-filter.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_reset-filter.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_reset-filter.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_resize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_resize.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_resize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_responsive-visibility.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_responsive-visibility.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_responsive-visibility.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_size.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_size.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_size.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_tab-focus.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_tab-focus.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_tab-focus.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_table-row.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_table-row.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_table-row.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_text-emphasis.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_text-emphasis.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_text-emphasis.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_text-overflow.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_text-overflow.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_text-overflow.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_vendor-prefixes.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/mixins\/_vendor-prefixes.scss",
+		"outputAbbreviatedPath": "\/assets\/sass\/bootstrap\/bootstrap\/css\/_vendor-prefixes.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/sass\/styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/styles.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inc\/custom-header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/custom-header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inc\/lightbox\/css\/jquery.fancybox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/css\/jquery.fancybox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inc\/lightbox\/img\/fancybox_overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_overlay.png",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/inc\/lightbox\/img\/fancybox_sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1362,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_sprite.png",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/inc\/lightbox\/img\/fancybox_sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6553,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_sprite@2x.png",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/img\/fancybox_sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/inc\/lightbox\/js\/jquery.fancybox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/js\/jquery.fancybox.js",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/js\/min\/jquery.fancybox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/inc\/lightbox\/js\/jquery.fancybox.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/js\/jquery.fancybox.pack.js",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/js\/min\/jquery.fancybox.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/inc\/lightbox\/js\/lightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/lightbox\/js\/lightbox.js",
+		"outputAbbreviatedPath": "\/inc\/lightbox\/js\/min\/lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/inc\/slider\/slider.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/slider\/slider.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inc\/slider\/slider_post_type.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/slider\/slider_post_type.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/html5.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/html5.js",
+		"outputAbbreviatedPath": "\/js\/min\/html5-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.fittext.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fittext.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fittext-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.fitvids.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fitvids.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fitvids-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/theme.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/theme.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/theme.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/page-home.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-home.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-main.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-main.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-sec-01.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-sec-01.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-sec02.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-sec02.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page-sec04.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-sec04.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/phpsqlsearch_genxml.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/phpsqlsearch_genxml.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/screenshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18155,
+		"inputAbbreviatedPath": "\/screenshot.png",
+		"outputAbbreviatedPath": "\/screenshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/single.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/single.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/styles\/boots-bones.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/styles\/boots-bones.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-home.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-home.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec5.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec5.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/sections-sec6.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/sections-sec6.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Oscar Castaneda",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "oc-dilli",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "globe_yellow"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

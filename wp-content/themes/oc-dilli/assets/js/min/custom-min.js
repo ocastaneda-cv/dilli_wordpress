@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("body").css("margin-bottom",jQuery(".footer").height()+0)});var bumpIt=function(){jQuery("body").css("margin-bottom",jQuery(".footer").height()+20)},didResize=!1;bumpIt(),jQuery(window).resize(function(){didResize=!0}),setInterval(function(){didResize&&(didResize=!1,bumpIt())},250);

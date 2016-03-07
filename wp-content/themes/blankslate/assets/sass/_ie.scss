@@ -1,0 +1,9 @@
+/* IE10+ CSS styles go here*/
+
+div.splash {
+	@media (min-width:$screen-xs-min) and (max-width: $screen-sm-max) {
+    	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	     		.hide-xxs {float:none; display:inline-block;}	    	
+	    }  
+	}
+} 
